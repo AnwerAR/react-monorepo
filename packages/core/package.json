@@ -1,0 +1,8 @@
+{
+  "name": "@react-monorepo/core",
+  "version": "0.0.1",
+  "description": "The business logic goes here",
+  "main": "index.js",
+  "author": "Anwer AR",
+  "license": "MIT"
+}
